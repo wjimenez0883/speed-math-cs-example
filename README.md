@@ -1,1 +1,1 @@
-# speed-math-cs-example
+Welcome to SPEED Classes!
